@@ -156,7 +156,7 @@
             <div slot="title">to publish your website!</div>
             <div slot="subtitle">
               You will get
-              <u>nulllive.</u> domain along with
+              <u>nulllive.net</u> domain along with
             </div>
           </ModalComp>
 

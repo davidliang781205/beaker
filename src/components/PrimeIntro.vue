@@ -11,7 +11,7 @@
     <div class="modal-prime-intro">
       <div class="modal-prime-intro__heading">
         Join
-        <span class="modal-prime-intro__heading--bold">Prime</span>
+        <span class="modal-prime-intro__heading--bold">NOW</span>
         <br />
 
         <slot v-if="hasTitleSlot" name="title"></slot>
